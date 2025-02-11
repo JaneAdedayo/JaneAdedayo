@@ -11,7 +11,7 @@ I am a cybersecurity analyst with a strong focus on compliance, security audits,
 - Draft **security policies & compliance guidelines** 🏛️
 
 ### 📂 **Projects & Resources:**
-🚀 [Security Audit Checklist](#) *(Coming soon!)*  
+🚀 [[Security Audit Checklist](#) ](https://github.com/JaneAdedayo/security-audit-checklist)*  
 🔍 [Phishing Email Analysis Script](#) *(Coming soon!)*  
 📜 [Incident Response Plan](#) *(Coming soon!)*  
 
